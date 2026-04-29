@@ -1,0 +1,112 @@
+[
+  {
+    "id": 1,
+    "name": "Portable Mini Fan",
+    "category": "Electronics",
+    "price": 699,
+    "description": "Portable cooling fan perfect for travel and office desk.",
+    "buyUrl": "https://example.com/product1",
+    "images": [
+      "/products/p1.png"
+    ]
+  },
+  {
+    "id": 2,
+    "name": "Travel Backpack 35L",
+    "category": "Travel",
+    "price": 1799,
+    "description": "Spacious travel backpack with laptop compartment and waterproof fabric.",
+    "buyUrl": "https://example.com/product2",
+    "images": [
+      "/products/p2.png"
+    ]
+  },
+  {
+    "id": 3,
+    "name": "LED Desk Lamp",
+    "category": "Home",
+    "price": 699,
+    "description": "Premium desk lamp for office and study room.",
+    "buyUrl": "https://example.com/product3",
+    "images": [
+      "/products/p3.png"
+    ]
+  },
+  {
+    "id": 4,
+    "name": "Smart Fitness Watch",
+    "category": "Electronics",
+    "price": 2499,
+    "description": "Fitness tracking smartwatch with notifications.",
+    "buyUrl": "https://example.com/product4",
+    "images": [
+      "/products/p4.png"
+    ]
+  },
+  {
+    "id": 5,
+    "name": "Wireless Bluetooth Earbuds",
+    "category": "Electronics",
+    "price": 1299,
+    "description": "High quality wireless earbuds with long battery life.",
+    "buyUrl": "https://example.com/product5",
+    "images": [
+      "/products/p5.png"
+    ]
+  },
+  {
+    "id": 6,
+    "name": "Portable Mini Fan",
+    "category": "Electronics",
+    "price": 699,
+    "description": "Portable cooling fan perfect for travel and office desk.",
+    "buyUrl": "https://example.com/product1",
+    "images": [
+      "/products/p6.png"
+    ]
+  },
+  {
+    "id": 7,
+    "name": "Travel Backpack 35L",
+    "category": "Travel",
+    "price": 1799,
+    "description": "Spacious travel backpack with laptop compartment and waterproof fabric.",
+    "buyUrl": "https://example.com/product2",
+    "images": [
+      "/products/p7.png"
+    ]
+  },
+  {
+    "id": 8,
+    "name": "LED Desk Lamp",
+    "category": "Home",
+    "price": 699,
+    "description": "Premium desk lamp for office and study room.",
+    "buyUrl": "https://example.com/product3",
+    "images": [
+      "/products/p8.png"
+    ]
+  },
+  {
+    "id": 9,
+    "name": "Smart Fitness Watch",
+    "category": "Electronics",
+    "price": 2499,
+    "description": "Fitness tracking smartwatch with notifications.",
+    "buyUrl": "https://example.com/product4",
+    "images": [
+      "/products/p9.png"
+    ]
+  },
+  {
+    "id": 10,
+    "name": "Wireless Bluetooth Earbuds",
+    "category": "Electronics",
+    "price": 1299,
+    "description": "High quality wireless earbuds with long battery life.",
+    "buyUrl": "https://example.com/product5",
+    "images": [
+      "/products/p1.png"
+    ]
+  }
+]
