@@ -42,7 +42,7 @@ export default function HomePage() {
         />
 
         <div className="d-flex align-items-center mb-3 mt-4">
-          <h2 className="section-title mb-0">All Productss</h2>
+          <h2 className="section-title mb-0">All Products</h2>
         </div>
 
         {filtered.length === 0 ? (
