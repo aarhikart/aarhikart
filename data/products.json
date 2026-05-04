@@ -7,7 +7,7 @@
     "description": "Portable cooling fan perfect for travel and office desk.",
     "buyUrl": "https://example.com/product1",
     "images": [
-      "/products/p1m.jpeg"
+      "/products/p1.jpeg"
     ]
   },
   {
@@ -18,7 +18,7 @@
     "description": "Spacious travel backpack with laptop compartment and waterproof fabric.",
     "buyUrl": "https://example.com/product2",
     "images": [
-      "/products/p2m.jpeg"
+      "/products/p2.jpeg"
     ]
   },
   {
@@ -29,7 +29,7 @@
     "description": "Premium desk lamp for office and study room.",
     "buyUrl": "https://example.com/product3",
     "images": [
-      "/products/p3.png"
+      "/products/p3.jpeg"
     ]
   },
   {
@@ -40,7 +40,7 @@
     "description": "Fitness tracking smartwatch with notifications.",
     "buyUrl": "https://example.com/product4",
     "images": [
-      "/products/p4.png"
+      "/products/p4.jpeg"
     ]
   },
   {
@@ -51,7 +51,7 @@
     "description": "High quality wireless earbuds with long battery life.",
     "buyUrl": "https://example.com/product5",
     "images": [
-      "/products/p5.png"
+      "/products/p5.jpeg"
     ]
   },
   {
@@ -62,7 +62,7 @@
     "description": "Portable cooling fan perfect for travel and office desk.",
     "buyUrl": "https://example.com/product1",
     "images": [
-      "/products/p6.png"
+      "/products/p6.jpeg"
     ]
   },
   {
@@ -73,7 +73,7 @@
     "description": "Spacious travel backpack with laptop compartment and waterproof fabric.",
     "buyUrl": "https://example.com/product2",
     "images": [
-      "/products/p7.png"
+      "/products/p7.jpeg"
     ]
   },
   {
@@ -84,7 +84,7 @@
     "description": "Premium desk lamp for office and study room.",
     "buyUrl": "https://example.com/product3",
     "images": [
-      "/products/p8.png"
+      "/products/p8.jpeg"
     ]
   },
   {
@@ -95,7 +95,7 @@
     "description": "Fitness tracking smartwatch with notifications.",
     "buyUrl": "https://example.com/product4",
     "images": [
-      "/products/p9.png"
+      "/products/p9.jpeg"
     ]
   },
   {
@@ -106,7 +106,7 @@
     "description": "High quality wireless earbuds with long battery life.",
     "buyUrl": "https://example.com/product5",
     "images": [
-      "/products/p1.png"
+      "/products/p10.jpeg"
     ]
   }
 ]
