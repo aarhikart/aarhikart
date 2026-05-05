@@ -1,32 +1,37 @@
+
+
+
+
 [
+    
   {
     "id": 1,
-    "name": "Portable Mini Fan",
-    "category": "Electronics",
-    "price": 699,
-    "description": "Portable cooling fan perfect for travel and office desk.",
-    "buyUrl": "https://example.com/product1",
+    "name": "One Piec Dress",
+    "category": "Women’s",
+    "price": 318,
+    "description": "One Piec Dress | Dress for Parties | Women's Printed Dress | Women’s Party Dress | Printed Women’s Dress | Summer Casual Dress | Fancy & LigthWeigth Gown for Women and Girls | Stylish Western Frock",
+    "buyUrl": "https://www.meesho.com/s/p/91xsvz?product_id=547452287&af_force_deeplink=true&host_internal=single_product&pid=meesho_affiliate_portal&is_retargeting=true&af_click_lookback=7d&product_name=product&utm_source=youtube_shorts&external_product_id=91xsvz&af_reengagement_window=14d&c=67196496:youtube_shorts:2846101",
     "images": [
       "/products/p1.jpeg"
     ]
   },
   {
     "id": 2,
-    "name": "Travel Backpack 35L",
-    "category": "Travel",
-    "price": 1799,
-    "description": "Spacious travel backpack with laptop compartment and waterproof fabric.",
-    "buyUrl": "https://example.com/product2",
+    "name": "Sun Protection Rayon Cotton Innovative Scarf",
+    "category": "Women’s",
+    "price": 248,
+    "description": "Sun Protection Rayon Cotton Innovative Scarf Cum Mask With Cap To Cover Face Cotton Mask - Printed Pattern For Women's And Girl's Stylish Scarf Winter, Summer And Rain",
+    "buyUrl": "https://www.meesho.com/s/p/cg6ood?product_id=752779885&af_force_deeplink=true&host_internal=single_product&pid=meesho_affiliate_portal&is_retargeting=true&af_click_lookback=7d&product_name=product&utm_source=youtube_shorts&external_product_id=cg6ood&af_reengagement_window=14d&c=67196496:youtube_shorts:2886596",
     "images": [
       "/products/p2.jpeg"
     ]
   },
   {
     "id": 3,
-    "name": "LED Desk Lamp",
-    "category": "Home",
-    "price": 699,
-    "description": "Premium desk lamp for office and study room.",
+    "name": "Bangles PACK-24 CRSYTAL",
+    "category": "Women’s",
+    "price": 108,
+    "description": "Fancy Resham Glass Bangles 12 Colours 120 Bangles Set",
     "buyUrl": "https://example.com/product3",
     "images": [
       "/products/p3.jpeg"
@@ -34,79 +39,297 @@
   },
   {
     "id": 4,
-    "name": "Smart Fitness Watch",
-    "category": "Electronics",
-    "price": 2499,
-    "description": "Fitness tracking smartwatch with notifications.",
-    "buyUrl": "https://example.com/product4",
+    "name": "Printed Anarkali kurta",
+    "category": "Women’s",
+    "price": 351,
+    "description": "Printed Anarkali kurta | women wear kurti | cotton material kurti | long kurti for women | Casual Anarkali kurti | Designer block print kurti | Black block print kurti |",
+    "buyUrl": "https://www.meesho.com/s/p/x6ygw?product_id=55751936&af_force_deeplink=true&host_internal=single_product&pid=meesho_affiliate_portal&is_retargeting=true&af_click_lookback=7d&product_name=product&utm_source=instagram_stories&external_product_id=x6ygw&af_reengagement_window=14d&c=67196496:instagram_stories:2752619",
     "images": [
       "/products/p4.jpeg"
     ]
   },
   {
     "id": 5,
-    "name": "Wireless Bluetooth Earbuds",
-    "category": "Electronics",
-    "price": 1299,
-    "description": "High quality wireless earbuds with long battery life.",
-    "buyUrl": "https://example.com/product5",
+    "name": "Kashmiri Bangles Set of 12 Multicolor Glitter",
+    "category": "Women’s",
+    "price": 383,
+    "description": "Kashmiri Bangles Set of 12 Multicolor Glitter Stones with 4 Ghungroo Bangles - Traditional Eic Jewelry for Women - Perfect for Festivals, Weddings, and Gifting, Durable Quality, Long Lasting, Easy to Use, Lightweight Design, Compact Size, Multi Purpose, Versatile Product, Modern Style, Attractive",
+    "buyUrl": "https://www.meesho.com/s/p/epmlu5?product_id=889571597&af_force_deeplink=true&host_internal=single_product&pid=meesho_affiliate_portal&is_retargeting=true&af_click_lookback=7d&product_name=product&utm_source=youtube_shorts&external_product_id=epmlu5&af_reengagement_window=14d&c=67196496:youtube_shorts:2846136",
     "images": [
       "/products/p5.jpeg"
     ]
   },
   {
     "id": 6,
-    "name": "Portable Mini Fan",
-    "category": "Electronics",
-    "price": 699,
-    "description": "Portable cooling fan perfect for travel and office desk.",
-    "buyUrl": "https://example.com/product1",
+    "name": "DENVER Caliber,Honour & Imperial Nano Travel Size Pack Deo Perfume Body Spray",
+    "category": "Men’s",
+    "price": 217,
+    "description": "DENVER Caliber,Honour & Imperial Nano Travel Size Pack Deo Perfume Body Spray - For Men (50ml X 3 )",
+    "buyUrl": "https://www.meesho.com/s/p/2wsdhl?product_id=176003913&af_force_deeplink=true&host_internal=single_product&pid=meesho_affiliate_portal&is_retargeting=true&af_click_lookback=7d&product_name=product&utm_source=youtube_shorts&external_product_id=2wsdhl&af_reengagement_window=14d&c=67196496:youtube_shorts:2846151",
     "images": [
       "/products/p6.jpeg"
     ]
   },
   {
     "id": 7,
-    "name": "Travel Backpack 35L",
-    "category": "Travel",
-    "price": 1799,
-    "description": "Spacious travel backpack with laptop compartment and waterproof fabric.",
-    "buyUrl": "https://example.com/product2",
+    "name": "Kashmiri Bangles",
+    "category": "Women’s",
+    "price": 382,
+    "description": "Kashmiri Bangles Set of 12 Multicolor Glitter Stones with 4 Ghungroo Bangles - Traditional Eic Jewelry for Women - Perfect for Festivals, Weddings, and Gifting, Durable Quality, Long Lasting, Easy to Use, Lightweight Design, Compact Size, Multi Purpose, Versatile Product, Modern Style, Attractive",
+    "buyUrl": "https://www.meesho.com/s/p/2m6kwz?product_id=158190947&af_force_deeplink=true&host_internal=single_product&pid=meesho_affiliate_portal&is_retargeting=true&af_click_lookback=7d&product_name=product&utm_source=youtube_shorts&external_product_id=2m6kwz&af_reengagement_window=14d&c=67196496:youtube_shorts:2868546",
     "images": [
       "/products/p7.jpeg"
     ]
   },
   {
     "id": 8,
-    "name": "LED Desk Lamp",
-    "category": "Home",
-    "price": 699,
-    "description": "Premium desk lamp for office and study room.",
-    "buyUrl": "https://example.com/product3",
+    "name": "AC Cooler Fan with Water Fill option",
+    "category": "Electronics",
+    "price": 492,
+    "description": "OSSUM Mist Cooler Fan with Water Fill option with 1 Year Warranty 200 mm Table Fan (Blue, Black, White - No Color Choice | Pack of 1)",
+    "buyUrl": "https://www.flipkart.com/ossum-mist-cooler-fan-water-fill-option-1-year-warranty-200-mm-table/p/itm94e360711f06c?pid=FANHDJJ6BJQD5AZX&lid=LSTFANHDJJ6BJQD5AZXPQBGJL&marketplace=FLIPKART&q=Mist+fan&store=j9e/abm/lbz&ctx=eyJkZWxpdmVyZWRCeSI6IjE3NzM2Mjk5NTEzNzEiLCJkaXNwbGF5UHJpY2UiOiI0NzMifQ==&fm=eyJ3dHAiOiJwcm9kdWN0Q2FyZExpc3QiLCJwcnB0Ijoic3AiLCJtaWQiOiJQUk9EVUNUIn0&affid=rohanpouri&affExtParam1=ENKR20260505A1958662061&affExtParam2=5178768",
     "images": [
       "/products/p8.jpeg"
     ]
   },
+
   {
     "id": 9,
-    "name": "Smart Fitness Watch",
-    "category": "Electronics",
-    "price": 2499,
-    "description": "Fitness tracking smartwatch with notifications.",
-    "buyUrl": "https://example.com/product4",
+    "name": "Flexible Silicone Claw Clips",
+    "category": "Women’s",
+    "price": 219,
+    "description": "SANNIDHI® 2Pcs Claw Clip Flexible Silicone Claw Clips for Women 4.2in Flexible & Squishy Hair Clamps Soft Rubber-Like Grip, Strong Hold Anti-Slip Design For Thick/Thin/Long Hair",
+    "buyUrl": "https://www.amazon.in/SANNIDHI%C2%AE-Flexible-Silicone-Rubber-Like-Anti-Slip/dp/B0FKBB65NL?pd_rd_w=XwNiv&content-id=amzn1.sym.7ccbe032-5929-4c88-ab39-4923842061df&pf_rd_p=7ccbe032-5929-4c88-ab39-4923842061df&pf_rd_r=GS0TTMDTBWB6Q89D1WK1&pd_rd_wg=lBMq0&pd_rd_r=c6d9087f-01a1-4f34-9ae1-4dc35fc266bf&pd_rd_i=B0FKBB65NL&psc=1&linkCode=sl2&tag=arrhikart1720-21&linkId=193d2d4781e3749eee1cfc8bc9d8122c&ref_=as_li_ss_tl",
     "images": [
       "/products/p9.jpeg"
     ]
   },
-  {
+    {
     "id": 10,
-    "name": "Wireless Bluetooth Earbuds",
-    "category": "Electronics",
-    "price": 1299,
-    "description": "High quality wireless earbuds with long battery life.",
-    "buyUrl": "https://example.com/product5",
+    "name": "Thumb Wall Hook",
+    "category": "Accessories",
+    "price": 85,
+    "description": "PGADHIYA Thumb Wall Hook, Cable Organizer Clips Key Hanger, Desk Wire Management Holder Hook 10 (Pack of 10)",
+    "buyUrl": "https://linkredirect.in/visitretailer/2276?id=5178768&shareid=EfupI1J&dl=https%3A%2F%2Fwww.flipkart.com%2Fpgadhiya-thumb-wall-hook-cable-organizer-clips-key-hanger-desk-wire-management-holder-hook-10%2Fp%2Fitmac5bf77c9497b%3Fpid%3DHOKH9JS4WCDU4BBZ%26lid%3DLSTHOKH9JS4WCDU4BBZAN7XPT%26hl_lid%3D%26marketplace%3DFLIPKART%26fm%3DeyJ3dHAiOiJyZWNvIiwicHJwdCI6InBwIiwibWlkIjoicHJvZHVjdFJlY29tbWVuZGF0aW9uL3NpbWlsYXIifQ%253D%253D%26pageUID%3D1776493646324%26fbclid%3DPAT01DUARQA7VleHRuA2FlbQIxMABzcnRjBmFwcF9pZA81NjcwNjczNDMzNTI0MjcAAacNnVPDdEcBOuaT9T6Loz10RuXInn1c9U66QYg_54NnqT9Ok4kKoMMjgpgn3A_aem_ERTQdYcbuGJktsJ9kuZlUw",
     "images": [
       "/products/p10.jpeg"
     ]
+  },
+    {
+    "id": 11,
+    "name": "Waste Basket Dustbin Bucket",
+    "category": "Home",
+    "price": 1316,
+    "description": "CALANDIS® Lightweight Waste Basket Dustbin Bucket for Living Room Toilet Dormitory Blue S | 1 Waste Paper Bin Basket",
+    "buyUrl": "https://www.amazon.in/CALANDIS%C2%AE-Lightweight-Basket-Dustbin-Dormitory/dp/B0D34Z5JXH?pd_rd_w=yrEZ1&content-id=amzn1.sym.e84a26b2-5470-42e6-b7fa-162e7bb17185&pf_rd_p=e84a26b2-5470-42e6-b7fa-162e7bb17185&pf_rd_r=RQCJJPSFWREDNWKGA07V&pd_rd_wg=nIXNv&pd_rd_r=a8b554db-59d1-4dfe-9d21-959c4f6746ff&pd_rd_i=B0D34Z5JXH&psc=1&linkCode=sl2&tag=arrhikart1720-21&linkId=981522cb600eff8c5e9ef415bbe82a26&ref_=as_li_ss_tl",
+    "images": [
+      "/products/p11.jpeg"
+    ]
+  },
+    {
+    "id": 12,
+    "name": "Premium Metal Masala Jar Set of 6 Stylish Spice",
+    "category": "Kitchen",
+    "price": 580,
+    "description": "Premium Metal Masala Jar Set of 6 Stylish Spice Containers with Lids Kitchen Storage Canisters for Home Use",
+    "buyUrl": "https://www.meesho.com/s/p/94oox2?product_id=552066086&af_force_deeplink=true&host_internal=single_product&pid=meesho_affiliate_portal&is_retargeting=true&af_click_lookback=7d&product_name=product&utm_source=youtube_shorts&external_product_id=94oox2&af_reengagement_window=14d&c=67196496:youtube_shorts:3015899",
+    "images": [
+      "/products/p12.jpeg"
+    ]
+  },
+    {
+    "id": 13,
+    "name": "Small Solar Charger Solar Power Bank",
+    "category": "Electronics",
+    "price": 849,
+    "description": "1500mAh Large Capacity Battery Small Solar Charger Solar Power Bank Keychain Charger for Mobile Phones with Carabiner Emergency Power Supply - C pin",
+    "buyUrl": "https://www.amazon.in/1500mAh-Capacity-Keychain-Carabiner-Emergency/dp/B0CSKK2PDM?&linkCode=sl2&tag=arrhikart1720-21&linkId=849c98f184317b68628f4f13db4254e1&ref_=as_li_ss_tl",
+    "images": [
+      "/products/p13.jpeg"
+    ]
+  },
+     {
+    "id": 14,
+    "name": "Face Bowl with Built-In Ice",
+    "category": "Beauty",
+    "price": 158,
+    "description": "Silicone Collapsible Face Bowl with Built-In Ice Tray, Modern Style, Black, Round, Dishwasher Safe, For Face Bath, Soaking, Washing pack of 1",
+    "buyUrl": "https://www.meesho.com/s/p/emxvaw?product_id=885058232&af_force_deeplink=true&host_internal=single_product&pid=meesho_affiliate_portal&is_retargeting=true&af_click_lookback=7d&product_name=product&utm_source=youtube_shorts&external_product_id=emxvaw&af_reengagement_window=14d&c=67196496:youtube_shorts:2964210",
+    "images": [
+      "/products/p14.jpeg"
+    ]
+  },
+    {
+    "id": 15,
+    "name": "Mini Mosquito Kill Bat & Lamp",
+    "category": "Home",
+    "price": 276,
+    "description": "Mini Mosquito Kill Bat & Lamp 2 in 1|USB Rechargeable Portable Bug Zapper & Electric Fly Swatter, Safe for Indoor Outdoor Use, Multifunctional Mosquito Trap Light, Compact Design Pack of 1Mini Mosquito Kill Bat & Lamp 2 in 1|USB Rechargeable Portable Bug Zapper & Electric Fly Swatter, Safe for Indoor Outdoor Use, Multifunctional Mosquito Trap Light, Compact Design Pack of 1",
+    "buyUrl": "https://www.meesho.com/s/p/elzh57?product_id=883453579&af_force_deeplink=true&host_internal=single_product&pid=meesho_affiliate_portal&is_retargeting=true&af_click_lookback=7d&product_name=product&utm_source=youtube_shorts&external_product_id=elzh57&af_reengagement_window=14d&c=67196496:youtube_shorts:2993099",
+    "images": [
+      "/products/p15.jpeg"
+    ]
+  },
+   {
+    "id": 16,
+    "name": "Handy Stitch Mini Sewing Machine",
+    "category": "Electronics",
+    "price": 599,
+    "description": "PANCA Handy Stitch Mini Sewing Machine | Portable Handheld Silai Machine for Quick Stitching, Clothes Repair & DIY Craft | Lightweight Stapler Style Sewing Tool for Home, Travel & Emergency Use",
+    "buyUrl": "https://www.amazon.in/PANCA-Portable-Stitching-Lightweight-Emergency/dp/B0GW88YY2B?&linkCode=sl2&tag=arrhikart1720-21&linkId=b5bf0a538226b8cb9b66f62052fa116e&ref_=as_li_ss_tl",
+    "images": [
+      "/products/p16.jpeg"
+    ]
+  },
+     {
+    "id": 17,
+    "name": "Compact Mini Mop with Retractable Handle",
+    "category": "Kitchen",
+    "price": 143,
+    "description": "Compact Mini Mop with Retractable Handle | Wet & Dry Cleaner for Kitchen, Bathroom, Living Room & Car Glass | Portable Handheld Cleaning Mop for Home & Auto | Space-Saving Lightweight Cleaning Tool for Quick Daily Cleaning",
+    "buyUrl": "https://www.meesho.com/s/p/a5e1zu,a5e1zu?product_id=613715610&af_force_deeplink=true&host_internal=single_product&pid=meesho_affiliate_portal&is_retargeting=true&af_click_lookback=7d&product_name=product&utm_source=youtube_shortshttps://www.meesho.com/af_invite/67196496:youtube_shorts:3015790?p_id=613715610,youtube_shorts&external_product_id=a5e1zu,a5e1zu&af_reengagement_window=14d&c=67196496:youtube_shorts:3015790",
+    "images": [
+      "/products/p17.jpeg"
+    ]
+  },
+     {
+    "id": 18,
+    "name": "Oil Sprayer And Dispenser Bottle",
+    "category": "Kitchen",
+    "price": 109,
+    "description": "Oil Sprayer And Dispenser Bottle for Kitchen,2 in 1 Olive Oil Mist Sprayer and Oil Dispenser 500ML for Cooking,BBQ, Air Fryer, Salad, Frying, Baking",
+    "buyUrl": "https://www.meesho.com/s/p/b3l1k1?product_id=671148577&af_force_deeplink=true&host_internal=single_product&pid=meesho_affiliate_portal&is_retargeting=true&af_click_lookback=7d&product_name=product&utm_source=youtube_shorts&external_product_id=b3l1k1&af_reengagement_window=14d&c=67196496:youtube_shorts:2992907",
+    "images": [
+      "/products/p18.jpeg"
+    ]
+  },
+     {
+    "id": 19,
+    "name": "2L Handheld Garden Pump",
+    "category": "Accessories",
+    "price": 1299,
+    "description": "2L Handheld Garden Pump Pressure Sprayer with Adjustable Brass Nozzle",
+    "buyUrl": "https://www.meesho.com/af_invite/67196496:youtube_shorts:3330368?p_id=900707333&ext_id=ew9a85&utm_source=youtube_shorts",
+    "images": [
+      "/products/p19.jpeg"
+    ]
+  },
+     {
+    "id": 20,
+    "name": "Mobile Phone Stand Holder",
+    "category": "Accessories",
+    "price": 102,
+    "description": "Mobile Phone Stand Holder, Mobile Holder Stand, Wall Mounted Mobile Phone Holder, , Remote Holder Stand (Pack of 4) Multicolor.",
+    "buyUrl": "https://www.meesho.com/af_invite/67196496:youtube_shorts:3330339?p_id=418519184&ext_id=6x6bgw&utm_source=youtube_shorts",
+    "images": [
+      "/products/p20.jpeg"
+    ]
+  },
+     {
+    "id": 21,
+    "name": "Polker Hair Towel Wrap Turban Microfiber, Hair Drying Towels",
+    "category": "Women’s",
+    "price": 133,
+    "description": "Polker Hair Towel Wrap Turban Microfiber, Hair Drying Towels Quick Dry Hair Hat Drying Shower Head Towels Wrapped Bath Cap Anti Frizz Hair Care Dryer Towel for Women Girl Wet/Long/Curly/Thick Hair Shower Caps heavy quality hair wrap towel (EXPORT QUALITY) (MULTICOLOR) Pack Of 2",
+    "buyUrl": "https://www.meesho.com/s/p/3y7en1?product_id=238851037&af_force_deeplink=true&host_internal=single_product&pid=meesho_affiliate_portal&is_retargeting=true&af_click_lookback=7d&product_name=product&utm_source=youtube_shorts&external_product_id=3y7en1&af_reengagement_window=14d&c=67196496:youtube_shorts:2782903",
+    "images": [
+      "/products/p21.jpeg"
+    ]
+  },
+     {
+    "id": 22,
+    "name": "Original Neem Wood Comb",
+    "category": "Beauty",
+    "price": 165,
+    "description": "Original Neem Wood Comb 🌿Hair care ka natural solution! Static-free, anti-dandruff & scalp-friendly 💯 Roz use karo aur pao strong, shiny hair ✨",
+    "buyUrl": "https://www.meesho.com/s/p/7kni0a?product_id=457951978&af_force_deeplink=true&host_internal=single_product&pid=meesho_affiliate_portal&is_retargeting=true&af_click_lookback=7d&product_name=product&utm_source=youtube_shorts&external_product_id=7kni0a&af_reengagement_window=14d&c=67196496:youtube_shorts:2992945",
+    "images": [
+      "/products/p22.jpeg"
+    ]
+  },
+    {
+    "id": 23,
+    "name": "Vegetable Chopper 16 in 1 with Container, Veggie Chopper Food",
+    "category": "Kitchen",
+    "price": 549,
+    "description": "Vegetable Chopper 16 in 1 with Container, Veggie Chopper Food Chopper and Dicer, Onion Chopper Vegetable Cutter with 8 Stainless Steel Blades, Easy Meal Prep Kitchen Tool, Green",
+    "buyUrl": "https://www.amazon.in/KitchenVelly-Vegetable-Chopper-Container-Multi-Purpose/dp/B0DDMBFMYB?&linkCode=sl2&tag=arrhikart1720-21&linkId=5b966855d8aea55344090a31227c607f&ref_=as_li_ss_tl",
+    "images": [
+      "/products/p23.jpeg"
+    ]
+  },  {
+    "id": 24,
+    "name": "Flexible Feather Magic Microfiber Cleaning Duster Brush",
+    "category": "Home",
+    "price": 162,
+    "description": "Flexible Feather Magic Microfiber Cleaning Duster Brush with Extendable Rod, Dust Cleaner for Home, Fan Cleaning Brush with Long Rod, Dusters for House Cleaning (Multi-Color)",
+    "buyUrl": "https://www.meesho.com/s/p/6qbob5?product_id=407011793&af_force_deeplink=true&host_internal=single_product&pid=meesho_affiliate_portal&is_retargeting=true&af_click_lookback=7d&product_name=product&utm_source=youtube_shorts&external_product_id=6qbob5&af_reengagement_window=14d&c=67196496:youtube_shorts:3036693",
+    "images": [
+      "/products/p24.jpeg"
+    ]
+  },  {
+    "id": 25,
+    "name": "Clothes Cleaning Brush Soap Dispenser Foaming Box",
+    "category": "Kitchen",
+    "price": 103,
+    "description": "Clothes Cleaning Brush Soap Dispenser Foaming Box Multifunctional Scrubbing Brush Soap Saver Reusable Washing Brush For Laundry Shoes Carpet",
+    "buyUrl": "https://www.meesho.com/s/p/62y2do?product_id=367745676&af_force_deeplink=true&host_internal=single_product&pid=meesho_affiliate_portal&is_retargeting=true&af_click_lookback=7d&product_name=product&utm_source=youtube_shorts&external_product_id=62y2do&af_reengagement_window=14d&c=67196496:youtube_shorts:2886744",
+    "images": [
+      "/products/p25.jpeg"
+    ]
+  
+  }, {
+    "id": 26,
+    "name": "Kitchen Oil-Proof Aluminium Foil Sticker - Heat Resistant Self-Adhesive Backsplash Wallpaper",
+    "category": "Kitchen",
+    "price": 125,
+    "description": "Waterproof and heat-resistant kitchen foil sticker for walls, cabinets, drawers, and shelves. Protects surfaces from oil and stains.",
+    "buyUrl": "https://www.meesho.com/af_invite/67196496:youtube_shorts:3330648?p_id=375832908&ext_id=67rej0&utm_source=youtube_shorts",
+    "images": ["/products/p26.jpeg"]
+  },
+  {
+    "id": 27,
+    "name": "TRUJVE Foldable Glass Travel Mug with Stainless Steel Body & Hanging Chain",
+    "category": "Kitchen",
+    "price": 251,
+    "description": "Compact foldable travel mug perfect for camping, hiking, and outdoor use. Easy to carry with a hanging chain.",
+    "buyUrl": "https://www.meesho.com/af_invite/67196496:youtube_shorts:3330681?p_id=474766791&ext_id=7unwef&utm_source=youtube_shorts",
+    "images": ["/products/p27.jpeg"]
+  },
+  {
+    "id": 28,
+    "name": "Butterfly Head Magic Mop with Stainless Steel Telescopic Handle & Absorbent Sponge",
+    "category": "Home",
+    "price": 470,
+    "description": "High-absorbent sponge mop with adjustable stainless steel handle for efficient floor cleaning.",
+    "buyUrl": "https://www.meesho.com/af_invite/67196496:youtube_shorts:3330776?p_id=497754145&ext_id=88clk1&utm_source=youtube_shorts",
+    "images": ["/products/p28.jpeg"]
+  },
+  {
+    "id": 29,
+    "name": "Augen UPF50+ Ice Silk Sun Protection Face Mask (Pack of 4)",
+    "category": "Women’s",
+    "price": 0,
+    "description": "UV protection face mask with cooling ice silk fabric, designed for comfort and face shaping.",
+    "buyUrl": "https://fktr.in/RjYv421",
+    "images": ["/products/p29.jpeg"]
+  },
+  {
+    "id": 30,
+    "name": "Disposable Compressed Facial Sponge Stick - Portable Makeup Remover Wipes",
+    "category": "Beauty",
+    "price": 93,
+    "description": "Compact facial sponge sticks that expand with water, ideal for makeup removal and skincare on the go.",
+    "buyUrl": "https://www.meesho.com/af_invite/67196496:youtube_shorts:3330722?p_id=480160563&ext_id=7xvi9f&utm_source=youtube_shorts",
+    "images": ["/products/p30.jpeg"]
+  },
+  {
+    "id": 62,
+    "name": "Portable Cartoon USB Rechargeable Handheld Fan with Phone Holder",
+    "category": "Electronics",
+    "price": 181,
+    "description": "Mini rechargeable fan with cute cartoon design and built-in phone holder, perfect for desk or travel use.",
+    "buyUrl": "https://www.meesho.com/af_invite/67196496:youtube_shorts:3330612?p_id=896339684&ext_id=etno4k&utm_source=youtube_shorts",
+    "images": ["/products/p62.jpeg"]
   }
 ]
