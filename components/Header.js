@@ -2,7 +2,7 @@ export default function Header() {
   return (
     <div className="header-gradient sticky-top d-flex align-items-center justify-content-between px-4 shadow-sm">
       <div>
-        <h2 className=""><img src="products/logo.png"/></h2>
+        <h2 className="headerm"><img src="products/logo.png"/></h2>
       </div>
 
       <div className="text-end">
